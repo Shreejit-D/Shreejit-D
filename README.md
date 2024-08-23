@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **shreejitsj97@gmail.com**
 
-- 📄 Know about my experiences - [Resume](https://drive.google.com/file/d/155lAhUhVMXYM_V308ItHB6Sq-8qqQPhC/view?usp=sharing)
+- 📄 Know about my experiences - [Resume](https://drive.google.com/file/d/1B0V3bA2UTPHFf2ruBF46oR8hTjUtYcsr/view?usp=sharing)
 
 - ⚡ Fun fact **I play acoustic guitar, ukulele || Professionally competed as a Dancer || Do a bit of singing || Learned 6 languages (not programming 😛)**
 

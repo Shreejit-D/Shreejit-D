@@ -2,9 +2,9 @@
 <h3 align="center">Robotics Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/ujtysPw05X8AAAAM/wall-e-waving.gif">
 
-- 🔭 I’m currently working on **deep learning for non conventional image formats**
+- 🔭 I’m currently working on **objectect detection for non conventional image formats**
 
-- 🌱 I’m currently looking for **Full-Time roles in Computer Vision, Robotics Software, AI and ML.**
+- 🌱 I’m currently looking for **Full-Time roles in Computer Vision, Robotics Software, AI / ML.**
 
 - 📫 How to reach me **shreejitsj97@gmail.com**
 

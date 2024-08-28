@@ -13,10 +13,28 @@
 - ⚡ Fun fact **I play acoustic guitar, ukulele || Professionally competed as a Dancer || Do a bit of singing || Learned 6 languages (not programming 😛)**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shreejit-deshmukh-nu24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreejit-deshmukh-nu24" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shreejitsj97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreejitsj97" height="30" width="40" /></a>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/ShreejitDeshmukh-blue?logo=linkedin)](https://www.linkedin.com/in/shreejit-deshmukh-nu24/)
+[![Github](https://img.shields.io/badge/ShreejitD-darkslategray?logo=github)](https://github.com/Shreejit-D)
+[![LeetCode](https://img.shields.io/badge/ShreejitD-black?logo=leetcode)](https://leetcode.com/u/shreejitsj97/)
+[![Gmail](https://img.shields.io/badge/shreejitsj97-white?logo=gmail)](mailto:shreejitsj97@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+![Python](https://img.shields.io/badge/python-yellow?logo=python)
+![CPP](https://img.shields.io/badge/c%2B%2B-black?logo=c%2B%2B)
+![C](https://img.shields.io/badge/c-gray?logo=c)
+![ROS](https://img.shields.io/badge/ros2-darkblue?logo=ros)
+![MATLAB](https://img.shields.io/badge/matlab-yellow?logo=matlab)
+![ARDUINO](https://img.shields.io/badge/arduino-blue?logo=arduino)
+![OPENCV](https://img.shields.io/badge/opencv-green?logo=opencv)
+![LINUX](https://img.shields.io/badge/linux-white?logo=linux)
+![DOCKER](https://img.shields.io/badge/docker-blue?logo=docker)
+![PYTORCH](https://img.shields.io/badge/pytorch-black?logo=pytorch)
+![TENSORFLOW](https://img.shields.io/badge/tensorflow-white?logo=tensorflow)
+![KERAS](https://img.shields.io/badge/keras-yellow?logo=keras)
+![ANSYS](https://img.shields.io/badge/ansys-black?logo=ansys)
+![SOLIDWORKS](https://img.shields.io/badge/solidworks-red?logo=dassaultsystemes)
+![AUTOCAD](https://img.shields.io/badge/autocad-blue?logo=autocad)
+
+

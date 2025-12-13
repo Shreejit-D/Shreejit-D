@@ -1,5 +1,5 @@
 <h1 align="center">🙏 I'm Shreejit Deshmukh</h1>
-<h3 align="center">Robotics Engineer | <a href="https://drive.google.com/file/d/1B0V3bA2UTPHFf2ruBF46oR8hTjUtYcsr/view?usp=sharing" target="_blank">Resume</a></h3>
+<h3 align="center">Robotics Engineer | <a href="[https://drive.google.com/file/d/1B0V3bA2UTPHFf2ruBF46oR8hTjUtYcsr/view?usp=sharing](https://drive.google.com/file/d/1yxzt8mPZGSu8TjCEmLWM8inqoPTJJPhM/view?usp=sharing)" target="_blank">Resume</a></h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/ujtysPw05X8AAAAM/wall-e-waving.gif">
 
 - 🦾 I’m currently working on **objectect detection for non conventional image formats**
